@@ -5,6 +5,7 @@ int main()
  varchar x;
  cout<<"HELLO WORLD";
  cin>>x="Hai ABHIJATH";
+ COUT<<"T";
  cout<<x;
  cout<<"hai firends";
  HELLO FRIENDS
